@@ -48,9 +48,9 @@ global.sdc = 'http://wa.me/628998835033'
 global.snh = 'https://youtube.com/channel/MustofaBotz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088980870067'
-global.povo = '088980870067'
-global.pgopay = '088980870067'
+global.pdana = 'Chat Owner Aja'
+global.povo = 'Chat Owner Kaka'
+global.pgopay = 'Chat Owner Lol'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6287844649583'
