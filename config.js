@@ -41,11 +41,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/SabilOfc'
-global.sgh = 'https://github.com/SabilBotMd'
+global.sig = 'https://instagram.com/MustofaBotz'
+global.sgh = 'https://github.com/XyzenzKannaV1'
 global.sgc = 'https://chat.whatsapp.com/L5HgwM5WjhP92v68SBEkY7'
-global.sdc = 'https://wa.me/6283866366437'
-global.snh = 'https://youtube.com/channel/SabilOfc'
+global.sdc = 'http://wa.me/628998835033'
+global.snh = 'https://youtube.com/channel/MustofaBotz'
 
 /*============== PAYMENT ==============*/
 global.pdana = '088980870067'
@@ -53,18 +53,18 @@ global.povo = '088980870067'
 global.pgopay = '088980870067'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283112831554'
-global.nomorown = '6283866366437'
-global.namebot = 'Siesta MD'
-global.nameown = 'Kanna Chan'
+global.nomorbot = '6287844649583'
+global.nomorown = '628998835033'
+global.namebot = 'MustofaBotz'
+global.nameown = 'Mustofa Kawai Wkwkwk'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437', 'Kanna Chan', true]
+  ['628998835033'],
+  ['628998835033'],
+  ['628998835033'],
+  ['628998835033', 'Mustofa', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Siesta MD' //Main Watermark
-global.wm2 = 'Siesta MD'
-global.wm3 = 'Siesta MD'
+global.wm = 'MustofaBotz' //Main Watermark
+global.wm2 = 'MustofaBotz'
+global.wm3 = 'MustofaBotz'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ Kanna Chan🤗 ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Mustofa Tampan😎❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
