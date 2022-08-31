@@ -11,21 +11,21 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner SiestaBotz tidak menerima save contact
-• Owner SiestaBotz berhak blockir tanpa alasan
+• Owner MustofaBotz tidak menerima save contact
+• Owner MustofaBotz berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner SiestaBotz Hanya merespon yang berkaitan dengan BOT
-• No Telp owner SiestaBotz`
+• Owner MustofaBotz Hanya merespon yang berkaitan dengan BOT
+• No Telp owner MustofaBotz`
 
 //------------ BIO
 let ppown = 'https://telegra.ph/file/.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-❑ *Nama* : Kanna Chan
-❑ *Umur* : 15
-❑ *Kelas* : 1 Sma
+❑ *Nama* : Mustofa
+❑ *Umur* : 16
+❑ *Kelas* : 2 Sma
 
-❑ *Ulang Tahun* : 10 April 2008
-❑ *Alamat* : Indonesia,  Jawa Tengah, Pagerbarang
+❑ *Ulang Tahun* : Tanya Ae Sendiri:v
+❑ *Alamat* : Indonesia,  Mars , Mungkin Aoakoaka
 
 ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
@@ -36,8 +36,8 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor Kanna", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata  Kanna", rowId: ".owner bio"},
+	    {title: "📱 • Nomor Mustofa", rowId: ".owner nomor"},
+	{title: "🎨 • Biodata  Mustofa", rowId: ".owner bio"},
 	{title: "🌎 • Script yang bot gunakan", rowId: ".sc"},
 	]
     },{
